@@ -1,6 +1,6 @@
 <html>
   <head>
-    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <style type="text/css">
 #font {
   font-family: "Open Sans";
@@ -34,7 +34,7 @@ body {
   <body>
     <div>
       <div class="half">
-        <div class="center"> <img src="file:///home/brondwoo/Imagens/palestra%20bent%C3%A3o/adesivos/benevocats.png"
+        <div class="center"> <img src="assets/benevocats.png"
             alt=""> </div>
         <br />
         <br />
