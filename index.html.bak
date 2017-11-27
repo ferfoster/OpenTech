@@ -40,16 +40,16 @@ body {
         <br />
         <br />
         <div>
-          <ul>
-            <li> Software Livre - <a href="https://www.gnu.org/philosophy/free-sw.pt-br.html%20">https://www.gnu.org/philosophy/free-sw.pt-br.html
+          <ul class="list-group">
+            <li class="list-group-item"> Software Livre - <a href="https://www.gnu.org/philosophy/free-sw.pt-br.html%20">https://www.gnu.org/philosophy/free-sw.pt-br.html
               </a></li>
-          <li> Não deixe o FISL morrer - <a href="http://softwarelivre.org/fisl18%20">http://softwarelivre.org/fisl18
+          <li class="list-group-item"> Não deixe o FISL morrer - <a href="http://softwarelivre.org/fisl18%20">http://softwarelivre.org/fisl18
               </a></li>
-          <li> Open Souce Guide - <a href="https://opensource.guide/%20">https://opensource.guide/
+          <li class="list-group-item"> Open Souce Guide - <a href="https://opensource.guide/%20">https://opensource.guide/
               </a></li>
-          <li> AlternativeTo -<a href="%20https://alternativeto.net/%20">
+          <li class="list-group-item"> AlternativeTo -<a href="%20https://alternativeto.net/%20">
               https://alternativeto.net/ </a></li>
-          <li> Meetup -<a href="https://www.meetup.com/pt-BR/">
+          <li class="list-group-item"> Meetup -<a href="https://www.meetup.com/pt-BR/">
               https://www.meetup.com/pt-BR/ </a></li>
             
           </ul>
