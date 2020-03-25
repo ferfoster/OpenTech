@@ -1,6 +1,8 @@
 # OpenTech
 Informações sobre comunidades e opensource
 
+Conheça as comunidades de Rio Preto em http://junta.ai
+
 # Código de Conduta - Grupos Online
 Além de nos conhecermos melhor e criarmos um vínculo de amizade, estaremos sempre discutindo assuntos relacionados a tecnologia e eventos de tecnologia.
 E para nos conhecermos melhor, os novos membros podem e devem se presentar assim que possível.
@@ -22,8 +24,6 @@ E para nos conhecermos melhor, os novos membros podem e devem se presentar assim
 07. Não vamos tolerar qualquer tipo de Falta de Respeito.
 
 Em caso de violação das regras, os Administradores darão uma advertência e na segunda vez a pessoa será Removida/Banida 
-
-## Administradores do grupo no WhatsApp do GDG Campinas
 
 ---
 
@@ -48,7 +48,6 @@ New members can and should present themselves as soon as possible in order for u
 07. Lack of respect will not be tolerated.
 
 In case of violation of the established rules the Administrators will give a warning and the second time the person will be Removed / Banned
-
 
 ---
 
